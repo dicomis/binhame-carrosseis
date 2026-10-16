@@ -1,0 +1,103 @@
+{
+  "slug": "fio-dental-duvidas",
+  "tema": "Fio dental: 5 dúvidas que todo mundo tem",
+  "objetivo": "Salvamentos (técnica salvável) e alcance",
+  "slides": [
+    {
+      "type": "cover",
+      "tag": "Fio dental",
+      "title": [
+        "Fio dental:",
+        "5 dúvidas que",
+        "todo mundo tem"
+      ],
+      "sub": "Respostas simples, sem enrolação."
+    },
+    {
+      "type": "content",
+      "badge": "Pergunta",
+      "icon": "question",
+      "color": "gold",
+      "title": "Fio dental faz a gengiva sangrar?",
+      "headline": "Sangrar não é normal.",
+      "text": "Gengiva saudável não sangra na limpeza. O sangramento costuma indicar inflamação causada pela placa que o fio remove. Com o hábito diário e a técnica certa, ele tende a diminuir.",
+      "action": "Se o sangramento continuar, vale uma avaliação."
+    },
+    {
+      "type": "content",
+      "badge": "Pergunta",
+      "icon": "question",
+      "color": "gold",
+      "title": "Antes ou depois da escovação?",
+      "headline": "O que muda é fazer todos os dias.",
+      "text": "Não existe uma ordem única que seja regra: o essencial é usar todos os dias. Usar antes de escovar pode ajudar o flúor da pasta a alcançar melhor os espaços entre os dentes.",
+      "action": "Escolha o horário que você não vai esquecer."
+    },
+    {
+      "type": "content",
+      "badge": "Pergunta",
+      "icon": "question",
+      "color": "gold",
+      "title": "Uma vez por dia já basta?",
+      "headline": "Sim. Todos os dias é o que importa.",
+      "text": "A recomendação mais comum é usar o fio pelo menos uma vez ao dia, em um momento calmo, sem pressa. O importante não é a quantidade, é manter o hábito todos os dias.",
+      "action": "Encaixe em um horário que combine com sua rotina."
+    },
+    {
+      "type": "content",
+      "badge": "Pergunta",
+      "icon": "question",
+      "color": "gold",
+      "title": "Palito substitui o fio dental?",
+      "headline": "Cada um faz um papel diferente.",
+      "text": "O palito pode até ajudar em um imprevisto, mas não limpa como o fio: não remove a placa aderida entre os dentes e pode machucar a gengiva se usado com força.",
+      "action": "Prefira o fio e converse sobre técnica na consulta."
+    },
+    {
+      "type": "list",
+      "badge": "Salve este slide",
+      "title": "A técnica em 5 passos",
+      "items": [
+        {
+          "title": "Corte cerca de 45 cm de fio",
+          "detail": "Enrole nos dedos médios das duas mãos"
+        },
+        {
+          "title": "Curve o fio em C no dente",
+          "detail": "Deslize de cima para baixo, sem serra"
+        },
+        {
+          "title": "Vá até a linha da gengiva",
+          "detail": "Com cuidado, sem forçar para baixo"
+        },
+        {
+          "title": "Use um trecho novo por dente",
+          "detail": "Assim não carrega placa de dente em dente"
+        },
+        {
+          "title": "Não esqueça o dente de trás",
+          "detail": "O último de cada lado também precisa"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ficou com dúvida sobre o fio?",
+      "actions": [
+        {
+          "icon": "comment",
+          "text": "Deixe sua dúvida nos comentários"
+        },
+        {
+          "icon": "send",
+          "text": "Envie para quem ainda não usa fio"
+        },
+        {
+          "icon": "save",
+          "text": "Agende uma avaliação com calma"
+        }
+      ],
+      "card_title": "Agende sua avaliação"
+    }
+  ]
+}

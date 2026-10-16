@@ -10,3 +10,4 @@
 | 6 | 2026-10-15 | urgencia | Urgência: o que fazer | content (red) | Pronto (Aguardando Dr. Tiago) |
 | 7 | 2026-10-15 | dente-faltando | Dente faltando: o que acontece com o tempo | content + list | Pronto (Aguardando Dr. Tiago) |
 | 8 | 2026-10-16 | escovacao-erros | Escovação: 5 erros comuns que você comete | content | Teste Fase 1 Gerado com Sucesso |
+| 9 | 2026-10-16 | fio-dental-duvidas | Fio dental: 5 dúvidas que todo mundo tem | content + list | Pronto (Aguardando Dr. Tiago) |
