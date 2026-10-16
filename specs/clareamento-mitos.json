@@ -1,0 +1,66 @@
+{
+  "slug": "clareamento-mitos",
+  "tema": "Mitos e verdades sobre clareamento dental",
+  "objetivo": "Compartilhamento e comentários; reforçar clareamento como serviço",
+  "slides": [
+    {
+      "type": "cover",
+      "tag": "Clareamento dental",
+      "title": [
+        "5 mitos sobre",
+        "clareamento.",
+        "Em quantos",
+        "você acredita?"
+      ],
+      "sub": "Arraste e descubra o que é mito e o que é verdade."
+    },
+    {
+      "type": "myth",
+      "claim": "Clareamento dental estraga o esmalte.",
+      "headline": "Com acompanhamento profissional, é seguro.",
+      "text": "Feito com produtos regulamentados e indicado pelo dentista, o clareamento é considerado seguro. A sensibilidade pode aparecer, mas costuma ser passageira e dá para controlar."
+    },
+    {
+      "type": "myth",
+      "claim": "Pasta de carvão clareia os dentes.",
+      "headline": "Não há comprovação, e o carvão pode ser abrasivo.",
+      "text": "Faltam provas de que ele clareie de verdade. Usado todo dia, pode desgastar o esmalte com o tempo."
+    },
+    {
+      "type": "myth",
+      "claim": "Limão com bicarbonato clareia os dentes em casa.",
+      "headline": "Esse truque desgasta o esmalte.",
+      "text": "O ácido do limão e o atrito do bicarbonato agridem o esmalte. Dente desgastado fica mais sensível e mais amarelado."
+    },
+    {
+      "type": "myth",
+      "claim": "Depois de clarear, o efeito dura para sempre.",
+      "headline": "O efeito não é permanente.",
+      "text": "Café, vinho, cigarro e a higiene do dia a dia mudam quanto tempo o sorriso se mantém claro. Com retoques orientados pelo dentista, dá para manter por mais tempo."
+    },
+    {
+      "type": "myth",
+      "claim": "Qualquer pessoa pode clarear os dentes.",
+      "headline": "Antes, é preciso passar por uma avaliação.",
+      "text": "Cárie e gengiva inflamada precisam ser tratadas primeiro. Restaurações e coroas não clareiam junto com o dente, e isso muda o planejamento."
+    },
+    {
+      "type": "cta",
+      "title": "Qual mito você acreditava?",
+      "actions": [
+        {
+          "icon": "save",
+          "text": "Salve este post para consultar quando precisar"
+        },
+        {
+          "icon": "send",
+          "text": "Envie para quem vive tomando café"
+        },
+        {
+          "icon": "comment",
+          "text": "Quer clarear com segurança? Chame no WhatsApp"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+/* Clínica Binhame: estilo dos carrosséis (1080x1350). Fontes: Lora + Poppins. */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,500&family=Poppins:wght@300;400;500;600;700&display=swap');
+:root{
+  --green:#4b5a43; --deep:#3a4733; --night:#2b3527;
+  --paper:#f3f5ef; --paper2:#e6ebde; --ink:#232d1f; --soft:#4d5946;
+  --gl:#ecd382; --g:#c9971f; --gd:#8f6410;
+  --grad:linear-gradient(135deg,#f0dc8c 0%,#c9971f 52%,#8f6410 100%);
+  --red:#b4493b; --strike:#e8806f;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#888;font-family:"Poppins",sans-serif}
+.slide{position:relative;width:1080px;height:1350px;overflow:hidden;margin:0 0 20px 0;color:var(--paper)}
+h1,h2,h3{font-family:"Lora",Georgia,serif}
+
+/* rodapé */
+.foot{position:absolute;left:80px;right:80px;bottom:56px;display:flex;align-items:center;justify-content:space-between;z-index:5}
+.who{display:flex;align-items:center;gap:18px}
+.avatar{width:76px;height:76px;border-radius:50%;border:3px solid var(--g);
+  background:var(--green) url(assets/tiago_cut.webp) no-repeat;background-size:160%;background-position:100% 32%}
+.who b{display:block;font-size:26px;font-weight:600;line-height:1.2}
+.who span{display:block;font-size:21px;opacity:.8;line-height:1.3}
+.count{font-size:24px;font-weight:500;opacity:.85}
+.swipe{display:flex;align-items:center;gap:12px;font-size:24px;font-weight:500}
+.swipe svg{width:34px;height:34px}
+
+/* capa */
+.cover{background:var(--green)}
+.cover .ring{position:absolute;left:560px;top:440px;width:680px;height:680px;border-radius:50%;border:3px dashed rgba(236,211,130,.6)}
+.cover .glow{position:absolute;left:580px;top:460px;width:640px;height:640px;border-radius:50%;background:radial-gradient(circle,rgba(111,130,100,.9) 0%,rgba(75,90,67,0) 70%)}
+.cover .photo{position:absolute;right:-19px;bottom:-40px;width:740px}
+.cover .tag{position:absolute;left:80px;top:84px;padding:12px 26px;border-radius:999px;border:2px solid var(--gl);color:var(--gl);font-size:26px;font-weight:500}
+.cover h1{position:absolute;left:80px;top:170px;width:920px;font-size:88px;line-height:1.05;font-weight:700;color:#fbfaf3;letter-spacing:-1px}
+.cover .sub{position:absolute;left:80px;top:700px;width:350px;font-size:30px;line-height:1.5;color:rgba(243,245,239,.92)}
+.cover .foot{bottom:60px;justify-content:flex-start}
+
+/* etiquetas */
+.badge{display:inline-flex;align-items:center;gap:14px;padding:12px 30px 12px 18px;border-radius:999px;font-size:30px;font-weight:700}
+.badge svg{width:36px;height:36px;flex:none}
+.badge.gold{background:var(--grad);color:#2b2108}
+.badge.red{background:var(--red);color:#fff4ef}
+.badge.ok{background:var(--green);color:var(--paper)}
+.of{margin-left:18px;font-size:26px;font-weight:500;color:rgba(243,245,239,.7)}
+
+/* slides de conteúdo (sinal, dica, pergunta, hábito...) */
+.sign{background:var(--deep)}
+.sign .top{position:absolute;left:0;right:0;top:0;height:600px;padding:92px 80px 0}
+.sign h2{margin-top:44px;font-size:76px;line-height:1.1;font-weight:700;color:#fbfaf3;letter-spacing:-1px;max-width:900px}
+.sign .panel{position:absolute;left:0;right:0;top:540px;bottom:0;background:var(--paper);color:var(--ink);border-radius:64px 64px 0 0;padding:56px 80px 0}
+.sign .panel .foot{color:var(--ink)}
+.sign .panel .count{color:var(--soft)}
+.sign .panel h3{margin-top:34px;font-size:58px;line-height:1.15;font-weight:700;color:var(--green);letter-spacing:-.5px;max-width:900px}
+.sign .panel p{margin-top:24px;font-size:38px;line-height:1.5;color:var(--ink);max-width:900px}
+.doit{margin-top:36px;display:flex;gap:22px;align-items:center;background:var(--paper2);border-radius:28px;padding:28px 34px;font-size:34px;line-height:1.4;font-weight:500;color:var(--ink)}
+.doit .ic{flex:none;width:66px;height:66px;border-radius:50%;background:var(--green);color:var(--paper);display:grid;place-items:center}
+.doit .ic svg{width:30px;height:30px}
+
+/* variação mito x verdade: mito riscado em cima, verdade embaixo */
+.sign.mito .top{height:680px}
+.sign.mito h2{font-size:80px;color:rgba(251,250,243,.88);text-decoration:line-through;text-decoration-color:var(--strike);text-decoration-thickness:7px;text-decoration-skip-ink:none}
+.sign.mito .panel{top:600px;padding-top:64px}
+.sign.mito .panel h3{font-size:56px}
+.sign.mito .panel p{font-size:36px;margin-top:26px}
+
+/* variação lista (rotina, passo a passo) */
+.routine .top{height:500px}
+.routine .panel{top:450px}
+.routine ul{list-style:none;margin-top:30px;display:grid;gap:26px}
+.routine li{display:flex;gap:24px;align-items:center;font-size:40px;line-height:1.3;font-weight:500}
+.routine li .ic{flex:none;width:68px;height:68px;border-radius:50%;background:var(--green);color:var(--paper);display:grid;place-items:center}
+.routine li .ic svg{width:32px;height:32px}
+.routine li small{display:block;font-size:29px;font-weight:400;color:var(--soft);margin-top:2px}
+
+/* slide final (chamada para ação) */
+.cta{background:var(--green)}
+.cta h2{position:absolute;left:80px;top:96px;width:900px;font-size:88px;line-height:1.04;font-weight:700;color:#fbfaf3;letter-spacing:-1px}
+.cta .ring{position:absolute;left:660px;top:260px;width:540px;height:540px;border-radius:50%;border:3px dashed rgba(236,211,130,.55)}
+.cta .photo{position:absolute;right:-6px;bottom:262px;width:540px}
+.cta .acts{position:absolute;left:80px;top:430px;width:500px;list-style:none;display:grid;gap:34px}
+.cta .acts li{display:flex;gap:22px;align-items:flex-start;font-size:33px;line-height:1.35}
+.cta .acts .ic{flex:none;width:68px;height:68px;border-radius:50%;background:rgba(236,211,130,.16);color:var(--gl);display:grid;place-items:center}
+.cta .acts svg{width:34px;height:34px}
+.cta .note{position:absolute;left:80px;top:900px;width:430px;font-size:26px;line-height:1.45;color:rgba(243,245,239,.85)}
+.cta .card{position:absolute;left:0;right:0;bottom:0;height:300px;background:var(--paper);color:var(--ink);border-radius:64px 64px 0 0;padding:52px 80px 0;display:flex;gap:44px;align-items:flex-start}
+.cta .card img{width:150px;height:150px;border-radius:50%;flex:none}
+.cta .card .t{font-family:"Lora",serif;font-size:38px;font-weight:700;color:var(--green);line-height:1.15;margin-bottom:14px}
+.cta .card p{font-size:30px;line-height:1.5;color:var(--ink)}
+.cta .card p b{font-weight:600}

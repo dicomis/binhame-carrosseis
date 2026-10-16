@@ -1,0 +1,86 @@
+{
+  "slug": "medo-de-dentista",
+  "tema": "Medo de dentista: 5 dicas para uma consulta mais leve",
+  "objetivo": "Acolhimento; captar quem adia a consulta",
+  "slides": [
+    {
+      "type": "cover",
+      "tag": "Medo de dentista",
+      "title": [
+        "Medo de",
+        "dentista?",
+        "Você não está",
+        "sozinho."
+      ],
+      "sub": "5 jeitos de deixar a consulta mais leve."
+    },
+    {
+      "type": "content",
+      "badge": "Dica",
+      "icon": "bulb",
+      "color": "gold",
+      "title": "Conte para o dentista que você tem medo.",
+      "headline": "Falar é o primeiro passo.",
+      "text": "Quando o dentista sabe do seu receio, ele pode explicar cada etapa, ir mais devagar e adaptar o atendimento. Você não precisa fingir que está tranquilo.",
+      "action": "Avise já na hora de marcar a consulta."
+    },
+    {
+      "type": "content",
+      "badge": "Dica",
+      "icon": "bulb",
+      "color": "gold",
+      "title": "Combine um sinal de pausa.",
+      "headline": "Você tem o controle.",
+      "text": "Combinar um gesto, como levantar a mão, para pedir uma pausa ajuda a sentir mais segurança durante o atendimento.",
+      "action": "Peça ao dentista para combinar o sinal antes de começar."
+    },
+    {
+      "type": "content",
+      "badge": "Dica",
+      "icon": "bulb",
+      "color": "gold",
+      "title": "Peça para explicarem o que vai acontecer.",
+      "headline": "O medo cresce com o desconhecido.",
+      "text": "Saber o que será feito, quanto tempo leva e o que você pode sentir reduz a ansiedade. Pergunte à vontade, nenhuma dúvida é boba.",
+      "action": "Faça suas perguntas antes de o procedimento começar."
+    },
+    {
+      "type": "content",
+      "badge": "Dica",
+      "icon": "bulb",
+      "color": "gold",
+      "title": "Escolha um horário tranquilo.",
+      "headline": "Menos pressa, menos tensão.",
+      "text": "Chegar correndo ou marcar no meio de um dia cheio aumenta a ansiedade. Um horário em que você possa ir com calma ajuda.",
+      "action": "Chegue com alguns minutos de folga e respire fundo."
+    },
+    {
+      "type": "content",
+      "badge": "Dica",
+      "icon": "bulb",
+      "color": "gold",
+      "title": "Comece com uma consulta de avaliação.",
+      "headline": "Nem toda visita precisa ter tratamento.",
+      "text": "A primeira consulta pode ser só uma conversa e um exame, para conhecer o dentista e o ambiente. O tratamento vem depois, no seu ritmo.",
+      "action": "Marque uma avaliação e diga que quer ir com calma."
+    },
+    {
+      "type": "cta",
+      "title": "Pronto para dar o primeiro passo?",
+      "actions": [
+        {
+          "icon": "comment",
+          "text": "Comente se você também tem medo de dentista"
+        },
+        {
+          "icon": "send",
+          "text": "Envie para quem adia a consulta por medo"
+        },
+        {
+          "icon": "save",
+          "text": "Avise no WhatsApp que quer ir com calma"
+        }
+      ]
+    }
+  ]
+}

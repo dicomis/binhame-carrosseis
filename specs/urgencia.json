@@ -1,0 +1,88 @@
+{
+  "slug": "urgencia",
+  "tema": "Quando não esperar: dor, inchaço, dente quebrado ou que caiu, sangramento",
+  "objetivo": "Salvamentos e confiança na clínica",
+  "slides": [
+    {
+      "type": "cover",
+      "tag": "Urgência",
+      "title": [
+        "Dor, queda,",
+        "inchaço: quando",
+        "não vale",
+        "esperar"
+      ],
+      "sub": "5 situações em que é melhor não deixar para depois."
+    },
+    {
+      "type": "content",
+      "badge": "Procure atendimento",
+      "icon": "alert",
+      "color": "red",
+      "title": "Dor forte que não passa.",
+      "headline": "Mesmo que melhore, a causa continua.",
+      "text": "Dor de dente intensa, que atrapalha o sono ou volta sempre, pode indicar infecção ou inflamação do nervo. Quando a dor alivia por um tempo, o problema ainda está lá.",
+      "action": "Agende com urgência e evite remédios caseiros."
+    },
+    {
+      "type": "content",
+      "badge": "Procure atendimento",
+      "icon": "alert",
+      "color": "red",
+      "title": "Rosto ou gengiva inchados.",
+      "headline": "Inchaço pode ser sinal de infecção.",
+      "text": "Um inchaço no rosto ou na gengiva, com ou sem dor, precisa de avaliação rápida. Com febre, ou com dificuldade para engolir ou respirar, vá imediatamente a um pronto-socorro.",
+      "action": "Não espere o inchaço passar sozinho."
+    },
+    {
+      "type": "content",
+      "badge": "Procure atendimento",
+      "icon": "alert",
+      "color": "red",
+      "title": "Dente quebrado ou lascado.",
+      "headline": "Mesmo sem dor, não deixe para depois.",
+      "text": "Uma fratura pode expor a parte interna do dente e facilitar a entrada de bactérias. Se conseguir, guarde o pedaço quebrado.",
+      "action": "Enxágue a boca com água e procure o dentista."
+    },
+    {
+      "type": "content",
+      "badge": "Procure atendimento",
+      "icon": "alert",
+      "color": "red",
+      "title": "Dente permanente que saiu inteiro por uma batida.",
+      "headline": "Aqui, o tempo faz toda a diferença.",
+      "text": "Segure o dente pela coroa, sem tocar na raiz, e não esfregue. Guarde em leite ou soro fisiológico e vá ao dentista na hora. Dente de leite não é recolocado.",
+      "action": "Quanto mais rápido o atendimento, maiores as chances."
+    },
+    {
+      "type": "content",
+      "badge": "Procure atendimento",
+      "icon": "alert",
+      "color": "red",
+      "title": "Sangramento que não para.",
+      "headline": "Depois de extração ou batida, é preciso avaliar.",
+      "text": "Pressione uma gaze limpa sobre o local por alguns minutos. Se continuar sangrando, procure atendimento.",
+      "action": "Não fique em casa esperando o sangramento parar."
+    },
+    {
+      "type": "cta",
+      "title": "Salve este post para uma hora de aperto",
+      "actions": [
+        {
+          "icon": "save",
+          "text": "Salve: na urgência, você vai querer achar rápido"
+        },
+        {
+          "icon": "send",
+          "text": "Envie para a família e os amigos"
+        },
+        {
+          "icon": "comment",
+          "text": "Chame a clínica pelo WhatsApp"
+        }
+      ],
+      "card_title": "Fale com a clínica",
+      "note": "Em emergências graves, como dificuldade para respirar, vá a um pronto-socorro."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "habitos",
+  "tema": "5 hábitos que estragam os dentes sem a pessoa perceber",
+  "objetivo": "Alcance de público novo (tema com alta identificação)",
+  "slides": [
+    {
+      "type": "cover",
+      "tag": "Hábitos do dia a dia",
+      "title": [
+        "5 hábitos que",
+        "estragam seus",
+        "dentes sem você",
+        "perceber"
+      ],
+      "sub": "Pequenos costumes que desgastam o esmalte e a gengiva."
+    },
+    {
+      "type": "content",
+      "badge": "Hábito",
+      "icon": "alert",
+      "color": "gold",
+      "title": "Beliscar doces o dia inteiro.",
+      "headline": "A frequência pesa mais que a quantidade.",
+      "text": "Cada vez que você come açúcar, a boca fica mais ácida por um tempo e o esmalte perde minerais. Se isso se repete o dia todo, o dente não tem tempo de se recuperar.",
+      "action": "Concentre os doces nas refeições, em vez de beliscar ao longo do dia."
+    },
+    {
+      "type": "content",
+      "badge": "Hábito",
+      "icon": "alert",
+      "color": "gold",
+      "title": "Tomar refrigerante e suco ácido aos poucos.",
+      "headline": "O ácido também desgasta o esmalte.",
+      "text": "Refrigerantes, energéticos e alguns sucos são ácidos e podem causar erosão no esmalte, mesmo sem açúcar. O risco aumenta quando a bebida é tomada aos goles, por horas.",
+      "action": "Beba de uma vez só e enxágue a boca com água em seguida."
+    },
+    {
+      "type": "content",
+      "badge": "Hábito",
+      "icon": "alert",
+      "color": "gold",
+      "title": "Ranger ou apertar os dentes.",
+      "headline": "O desgaste acontece sem você sentir.",
+      "text": "O bruxismo pode desgastar os dentes e causar dor de cabeça, dor na mandíbula e sensibilidade. Muita gente só descobre no consultório.",
+      "action": "Acorda com a mandíbula cansada? Converse com o dentista."
+    },
+    {
+      "type": "content",
+      "badge": "Hábito",
+      "icon": "alert",
+      "color": "gold",
+      "title": "Roer unha, morder caneta ou abrir embalagem com os dentes.",
+      "headline": "Dente não é ferramenta.",
+      "text": "Esses hábitos podem trincar, lascar ou quebrar o dente e machucar a gengiva.",
+      "action": "Use tesoura ou abridor e procure ajuda se o hábito for difícil de largar."
+    },
+    {
+      "type": "content",
+      "badge": "Hábito",
+      "icon": "alert",
+      "color": "gold",
+      "title": "Dormir sem escovar os dentes.",
+      "headline": "A noite é a hora mais importante.",
+      "text": "Durante o sono, a produção de saliva diminui e a placa fica agindo por horas. Por isso a escovação antes de dormir faz tanta diferença.",
+      "action": "Escove e passe fio dental antes de deitar, todos os dias."
+    },
+    {
+      "type": "cta",
+      "title": "Quantos desses hábitos você tem?",
+      "actions": [
+        {
+          "icon": "comment",
+          "text": "Conte nos comentários qual você precisa largar"
+        },
+        {
+          "icon": "send",
+          "text": "Envie para quem vive beliscando doce"
+        },
+        {
+          "icon": "save",
+          "text": "Agende sua avaliação e veja como está a sua boca"
+        }
+      ]
+    }
+  ]
+}

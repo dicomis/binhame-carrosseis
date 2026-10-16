@@ -1,0 +1,86 @@
+{
+  "slug": "siso",
+  "tema": "Cirurgia de siso: 5 perguntas e respostas",
+  "objetivo": "Captar quem tem dúvida sobre cirurgia (especialidade do Dr. Tiago)",
+  "slides": [
+    {
+      "type": "cover",
+      "tag": "Cirurgia de siso",
+      "title": [
+        "Siso: tudo o",
+        "que você precisa",
+        "saber antes",
+        "de tirar"
+      ],
+      "sub": "5 perguntas, 5 respostas."
+    },
+    {
+      "type": "content",
+      "badge": "Pergunta",
+      "icon": "question",
+      "color": "gold",
+      "title": "Todo mundo precisa tirar o siso?",
+      "headline": "Não.",
+      "text": "Se o siso nasce completo, bem posicionado e dá para higienizar bem, ele pode ser mantido. A indicação depende da avaliação do dentista e, em geral, de uma radiografia.",
+      "action": "Só a avaliação diz se o seu precisa sair."
+    },
+    {
+      "type": "content",
+      "badge": "Pergunta",
+      "icon": "question",
+      "color": "gold",
+      "title": "Quando é indicado tirar?",
+      "headline": "Quando ele traz risco ou problema.",
+      "text": "Costuma ser indicado quando o siso está inclinado, preso no osso ou na gengiva, causa inflamações repetidas ou cárie, ou dificulta a limpeza.",
+      "action": "A decisão é sempre caso a caso."
+    },
+    {
+      "type": "content",
+      "badge": "Pergunta",
+      "icon": "question",
+      "color": "gold",
+      "title": "A cirurgia dói?",
+      "headline": "Ela é feita com anestesia.",
+      "text": "Durante o procedimento você não sente dor, apenas pressão. Depois pode haver desconforto e inchaço, e o dentista orienta como controlar.",
+      "action": "Siga as orientações e os medicamentos indicados pelo dentista."
+    },
+    {
+      "type": "content",
+      "badge": "Pergunta",
+      "icon": "question",
+      "color": "gold",
+      "title": "Como é a recuperação?",
+      "headline": "Alguns dias de cuidado.",
+      "text": "Inchaço e desconforto são esperados nos primeiros dias. Repouso, alimentação macia e higiene cuidadosa ajudam. O tempo varia de pessoa para pessoa.",
+      "action": "Evite esforço e siga as instruções do pós-operatório."
+    },
+    {
+      "type": "content",
+      "badge": "Pergunta",
+      "icon": "question",
+      "color": "gold",
+      "title": "Dá para esperar se não está doendo?",
+      "headline": "Nem sempre.",
+      "text": "Um siso mal posicionado pode causar inflamação e cárie no dente vizinho sem dar sintoma. Acompanhar com o dentista evita surpresas.",
+      "action": "Mesmo sem dor, vale uma avaliação."
+    },
+    {
+      "type": "cta",
+      "title": "Ficou com dúvida sobre o siso?",
+      "actions": [
+        {
+          "icon": "comment",
+          "text": "Deixe sua dúvida nos comentários"
+        },
+        {
+          "icon": "send",
+          "text": "Envie para quem está com siso nascendo"
+        },
+        {
+          "icon": "save",
+          "text": "Agende uma avaliação para saber se o seu precisa sair"
+        }
+      ]
+    }
+  ]
+}

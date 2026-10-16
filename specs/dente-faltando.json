@@ -1,0 +1,108 @@
+{
+  "slug": "dente-faltando",
+  "tema": "Dente faltando: o que acontece com o tempo e o que fazer",
+  "objetivo": "Captar tratamentos de maior valor (reposição); depende de confirmar serviços",
+  "slides": [
+    {
+      "type": "cover",
+      "tag": "Dente faltando",
+      "title": [
+        "Perdeu um dente?",
+        "Não deixe o",
+        "espaço esperando"
+      ],
+      "sub": "5 coisas que acontecem quando um dente falta."
+    },
+    {
+      "type": "content",
+      "badge": "O que acontece",
+      "icon": "alert",
+      "color": "gold",
+      "title": "Os dentes vizinhos mudam de lugar.",
+      "headline": "Eles tendem a se inclinar para o espaço.",
+      "text": "Sem o dente ao lado, os vizinhos podem se inclinar, e o dente do lado oposto pode se alongar para ocupar o vazio. Isso altera a mordida.",
+      "action": "Quanto antes avaliar, mais fácil manter tudo no lugar."
+    },
+    {
+      "type": "content",
+      "badge": "O que acontece",
+      "icon": "alert",
+      "color": "gold",
+      "title": "A mastigação fica sobrecarregada.",
+      "headline": "Os outros dentes trabalham dobrado.",
+      "text": "Com menos dentes para mastigar, o esforço se concentra nos que restam. Com o tempo, isso pode causar desgaste e desconforto.",
+      "action": "Muita gente passa a mastigar só de um lado."
+    },
+    {
+      "type": "content",
+      "badge": "O que acontece",
+      "icon": "alert",
+      "color": "gold",
+      "title": "O osso do local vai diminuindo.",
+      "headline": "Sem o dente, o osso perde estímulo.",
+      "text": "A raiz do dente estimula o osso. Quando o dente falta, o osso naquela região tende a diminuir com o tempo, o que pode dificultar tratamentos futuros.",
+      "action": "Por isso, agir cedo costuma ajudar."
+    },
+    {
+      "type": "content",
+      "badge": "O que acontece",
+      "icon": "alert",
+      "color": "gold",
+      "title": "Fica mais difícil limpar a boca.",
+      "headline": "O risco de cárie e gengivite pode aumentar.",
+      "text": "Dentes inclinados e espaços criam pontos onde a placa se acumula com facilidade, o que dificulta a higiene.",
+      "action": "Reforce o fio dental e converse com o dentista."
+    },
+    {
+      "type": "content",
+      "badge": "O que acontece",
+      "icon": "alert",
+      "color": "gold",
+      "title": "O sorriso e a confiança são afetados.",
+      "headline": "Isso também importa.",
+      "text": "Muita gente passa a esconder o sorriso e evitar fotos. Cuidar do dente que falta é cuidar também do bem-estar.",
+      "action": "Você não precisa se acostumar com o espaço."
+    },
+    {
+      "type": "list",
+      "badge": "O que fazer",
+      "title": "Existe solução. O dentista indica a melhor.",
+      "items": [
+        {
+          "title": "Avaliação do local",
+          "detail": "com exame e radiografia"
+        },
+        {
+          "title": "Conversa sobre as opções",
+          "detail": "de reposição do dente"
+        },
+        {
+          "title": "Escolha do tratamento",
+          "detail": "mais adequado ao seu caso"
+        },
+        {
+          "title": "Plano combinado",
+          "detail": "etapas e prazos explicados"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Falta algum dente? Vamos conversar.",
+      "actions": [
+        {
+          "icon": "comment",
+          "text": "Tire sua dúvida nos comentários"
+        },
+        {
+          "icon": "send",
+          "text": "Envie para quem convive com um espaço no sorriso"
+        },
+        {
+          "icon": "save",
+          "text": "Agende uma avaliação e conheça as opções"
+        }
+      ]
+    }
+  ]
+}

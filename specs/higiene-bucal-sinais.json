@@ -1,0 +1,111 @@
+{
+  "slug": "higiene-bucal-sinais",
+  "tema": "Sinais de que a higiene bucal precisa de atenção + rotina",
+  "objetivo": "Salvamentos (slide da rotina) e agendamento de avaliação",
+  "slides": [
+    {
+      "type": "cover",
+      "tag": "Higiene bucal",
+      "title": [
+        "Sua boca está",
+        "pedindo ajuda?"
+      ],
+      "sub": "5 sinais de que a sua higiene bucal precisa de atenção."
+    },
+    {
+      "type": "content",
+      "badge": "Sinal",
+      "icon": "alert",
+      "color": "gold",
+      "title": "A gengiva sangra ao escovar ou passar fio dental.",
+      "headline": "Sangrar não é normal.",
+      "text": "É um dos primeiros sinais de inflamação na gengiva, a gengivite, e costuma estar ligado ao acúmulo de placa. Sem cuidado, pode evoluir.",
+      "action": "Mantenha a escovação e o fio dental e agende uma avaliação."
+    },
+    {
+      "type": "content",
+      "badge": "Sinal",
+      "icon": "alert",
+      "color": "gold",
+      "title": "O mau hálito não passa, mesmo escovando.",
+      "headline": "A causa pode estar na própria boca.",
+      "text": "Placa, saburra na língua, gengiva inflamada e cáries estão entre as causas mais comuns. Também pode ter outras origens, por isso vale investigar.",
+      "action": "Limpe a língua todos os dias e agende uma avaliação."
+    },
+    {
+      "type": "content",
+      "badge": "Sinal",
+      "icon": "alert",
+      "color": "gold",
+      "title": "Os dentes doem com frio, calor ou doce.",
+      "headline": "A sensibilidade é um aviso.",
+      "text": "Pode indicar cárie, desgaste do esmalte ou gengiva retraída. Só a avaliação mostra qual é o caso, e cada um tem um tratamento diferente.",
+      "action": "Não adie: descobrir cedo costuma deixar o tratamento mais simples."
+    },
+    {
+      "type": "content",
+      "badge": "Sinal",
+      "icon": "alert",
+      "color": "gold",
+      "title": "Há uma camada dura e amarelada perto da gengiva.",
+      "headline": "Isso é tártaro, e escova não remove.",
+      "text": "O tártaro é a placa endurecida. Depois que se forma, só sai com a limpeza feita pelo dentista, e o acúmulo favorece a inflamação da gengiva.",
+      "action": "Agende uma limpeza profissional."
+    },
+    {
+      "type": "content",
+      "badge": "Sinal",
+      "icon": "alert",
+      "color": "gold",
+      "title": "Já faz mais de um ano da sua última consulta.",
+      "headline": "Muita coisa começa sem dor.",
+      "text": "Cáries e problemas na gengiva podem passar meses sem dar sintoma. A consulta de rotina descobre cedo, quando o tratamento costuma ser mais simples.",
+      "action": "A frequência ideal é definida pelo dentista para cada pessoa."
+    },
+    {
+      "type": "list",
+      "badge": "Salve este slide",
+      "title": "A rotina que protege o seu sorriso",
+      "items": [
+        {
+          "title": "Escove 2 vezes ao dia",
+          "detail": "por cerca de 2 minutos"
+        },
+        {
+          "title": "Use creme dental com flúor",
+          "detail": "na quantidade certa para a sua idade"
+        },
+        {
+          "title": "Passe fio dental todos os dias",
+          "detail": "limpa onde a escova não alcança"
+        },
+        {
+          "title": "Limpe a língua",
+          "detail": "ajuda a reduzir a placa e o mau hálito"
+        },
+        {
+          "title": "Troque a escova a cada 3 meses",
+          "detail": "ou antes, se as cerdas abrirem"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Reconheceu algum sinal?",
+      "actions": [
+        {
+          "icon": "comment",
+          "text": "Conte nos comentários qual deles você já sentiu"
+        },
+        {
+          "icon": "send",
+          "text": "Envie para quem está precisando ir ao dentista"
+        },
+        {
+          "icon": "save",
+          "text": "Salve a rotina para consultar depois"
+        }
+      ]
+    }
+  ]
+}
