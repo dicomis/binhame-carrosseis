@@ -1,0 +1,96 @@
+{
+  "slug": "quem-e-dr-tiago",
+  "tema": "Apresentação do Dr. Tiago Binhame e da clínica",
+  "objetivo": "alcance",
+  "slides": [
+    {
+      "type": "cover",
+      "tag": "Conheça a clínica",
+      "title": [
+        "Muito prazer,",
+        "sou o Dr.",
+        "Tiago Binhame"
+      ],
+      "sub": "Saúde bucal com cuidado e transparência em Santo André."
+    },
+    {
+      "type": "content",
+      "badge": "Propósito",
+      "icon": "bulb",
+      "color": "gold",
+      "title": "O que move nosso trabalho?",
+      "headline": "Cuidado além do sorriso",
+      "text": "Acreditamos que a odontologia deve ser humanizada. Cada paciente é único e merece uma escuta atenta para entender suas necessidades e receios individuais.",
+      "action": "Sua saúde começa pela boca."
+    },
+    {
+      "type": "content",
+      "badge": "Trajetória",
+      "icon": "check",
+      "color": "gold",
+      "title": "Experiência e dedicação",
+      "headline": "Foco em cirurgia e estética",
+      "text": "Atuamos em Santo André com foco em procedimentos como clareamento e cirurgias, incluindo a remoção de sisos, sempre com técnica e segurança clínica.",
+      "action": "A evolução é constante por aqui."
+    },
+    {
+      "type": "content",
+      "badge": "Diferencial",
+      "icon": "bulb",
+      "color": "gold",
+      "title": "Um ambiente acolhedor",
+      "headline": "Conforto para você relaxar",
+      "text": "Sabemos que ir ao dentista pode gerar ansiedade. Por isso, preparamos um espaço tranquilo para que sua consulta seja o mais leve e clara possível.",
+      "action": "Sinta-se em casa na nossa clínica."
+    },
+    {
+      "type": "myth",
+      "claim": "Todo procedimento no dentista dói",
+      "headline": "Na verdade...",
+      "text": "A tecnologia e as técnicas atuais permitem que a maioria dos tratamentos seja indolor ou cause o mínimo de desconforto possível ao paciente durante o cuidado."
+    },
+    {
+      "type": "list",
+      "badge": "Salve este slide",
+      "title": "Quando nos procurar?",
+      "items": [
+        {
+          "title": "Avaliação de rotina",
+          "detail": "Prevenir é melhor que tratar."
+        },
+        {
+          "title": "Desejo de clarear",
+          "detail": "Para um sorriso mais iluminado."
+        },
+        {
+          "title": "Dores ou incômodos",
+          "detail": "Não ignore sinais do seu corpo."
+        },
+        {
+          "title": "Extração de siso",
+          "detail": "Cirurgia com planejamento seguro."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Vamos cuidar do seu sorriso?",
+      "actions": [
+        {
+          "icon": "comment",
+          "text": "Já conhece a clínica? Conte nos comentários"
+        },
+        {
+          "icon": "send",
+          "text": "Envie para quem mora em Santo André"
+        },
+        {
+          "icon": "save",
+          "text": "Agende uma avaliação"
+        }
+      ],
+      "card_title": "Agende sua avaliação",
+      "note": "Atendimento em Santo André/SP."
+    }
+  ]
+}

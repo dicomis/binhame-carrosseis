@@ -1,0 +1,98 @@
+{
+  "slug": "escovacao-infantil",
+  "tema": "Dicas para a escovação infantil",
+  "objetivo": "alcance",
+  "slides": [
+    {
+      "type": "cover",
+      "tag": "Dicas para pais",
+      "title": [
+        "Escovação",
+        "infantil:",
+        "como tornar",
+        "mais fácil"
+      ],
+      "sub": "Guia prático para cuidar do sorriso dos pequenos."
+    },
+    {
+      "type": "content",
+      "badge": "Hábito",
+      "icon": "bulb",
+      "color": "gold",
+      "title": "O papel dos pais",
+      "headline": "A supervisão é essencial",
+      "text": "Até que a criança tenha coordenação motora fina, geralmente por volta dos 7 ou 8 anos, os pais devem realizar ou supervisionar a escovação para garantir a limpeza correta.",
+      "action": "Acompanhe a escovação do seu filho diariamente."
+    },
+    {
+      "type": "myth",
+      "claim": "Criança pode usar a mesma pasta que os adultos.",
+      "headline": "Na verdade...",
+      "text": "A recomendação costuma variar conforme a idade e a quantidade de flúor. A orientação individualizada do dentista é fundamental para definir o produto adequado para cada fase."
+    },
+    {
+      "type": "content",
+      "badge": "Sinal",
+      "icon": "check",
+      "color": "gold",
+      "title": "O momento certo",
+      "headline": "Crie uma rotina prazerosa",
+      "text": "Tentar escovar os dentes quando a criança está muito cansada ou com sono pode gerar resistência. Busque momentos em que ela esteja mais colaborativa e tranquila.",
+      "action": "Tente associar a escovação a uma música ou brincadeira."
+    },
+    {
+      "type": "content",
+      "badge": "Dica",
+      "icon": "bulb",
+      "color": "gold",
+      "title": "A técnica importa",
+      "headline": "Escove com suavidade",
+      "text": "Use movimentos circulares e delicados. O objetivo é remover os restos de alimentos sem machucar a gengiva, que é sensível, especialmente durante a troca de dentes.",
+      "action": "Peça orientação ao dentista sobre a técnica ideal."
+    },
+    {
+      "type": "list",
+      "badge": "Salve este slide",
+      "title": "Checklist da escovação",
+      "items": [
+        {
+          "title": "Escova macia",
+          "detail": "Escolha sempre cerdas extra macias."
+        },
+        {
+          "title": "Quantidade",
+          "detail": "Siga a medida indicada pelo dentista."
+        },
+        {
+          "title": "Frequência",
+          "detail": "Após as refeições e antes de dormir."
+        },
+        {
+          "title": "Avaliação",
+          "detail": "Visitas regulares ao consultório."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Dúvidas sobre o sorriso do seu filho?",
+      "actions": [
+        {
+          "icon": "comment",
+          "text": "Qual a maior dificuldade na escovação?"
+        },
+        {
+          "icon": "send",
+          "text": "Envie para outros pais que precisam saber."
+        },
+        {
+          "icon": "save",
+          "text": "Agende uma avaliação"
+        }
+      ],
+      "card_title": "Agende sua avaliação",
+      "note": "A avaliação profissional é o melhor caminho para a saúde bucal."
+    }
+  ],
+  "legenda": "Cuidar da escovação dos pequenos exige paciência e o método certo! 🦷\n\nArrasta para conferir dicas simples para tornar esse momento mais tranquilo e eficiente.\n\nQual a maior dificuldade que você encontra na hora de escovar os dentes do seu filho? 👇\n\nSalve este post para consultar depois e envie para outros pais que precisam dessas orientações.\n\nAgende sua avaliação pelo WhatsApp: (11) 94046-3921\n📍 Av. Eduardo Prado, 575, Santo André\n#odontologia #saudebucal #dentistasantoandre #santoandre #grandeabc #odontopediatria #saudeinfantil"
+}
